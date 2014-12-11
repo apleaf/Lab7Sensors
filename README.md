@@ -1,6 +1,6 @@
 Lab7Sensors
 ===========
-
+Functionality 
 I recieved a check plus on my pre lab, and my requiered functionality was checked on 8 December 2014, before COB Lesson T38.
 
 ###Pre Lab

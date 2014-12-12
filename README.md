@@ -18,7 +18,7 @@ For each sensor, I will connect it to an input on the MSP430.  When i want to ge
 The objectiveof this lab was to learn the concepts of ADC for teh MSP430.  The goal was to have the left sensor trigger the LED1 on the MSP430, and the right sensor triggered LED2.
 
 ###Debugging
-My code was not compiling at first.  After some modification, it showed that I was not returning the value of the sensor being too clsoe to teh wall or not.  I chanegd this, but then even after running my code, the sensors still did not work.  I figured it was my hardware, and after looking at the hookups I added for the sensors, I had the 5V connection to the sensors connected to ground.  After I wired it up correctly, detection on teh left side lit up the red LED and detection on the right side lit up the green LED 
+My code was not compiling at first.  After some modification, it showed that I was not returning the value of the sensor being too clsoe to teh wall or not.  I chanegd this, but then even after running my code, the sensors still did not work.  I figured it was my hardware, and after looking at the hookups I added for the sensors, I had the 5V connection to the sensors connected to ground.  After I wired it up correctly, the sensors dectected properly.
 
 
-Documentation:
+Documentation:none
